@@ -7,7 +7,7 @@ data_with_subfolder: False
 
 train_data_path: /content/drive/MyDrive/mvtec_anomaly_detection/hazelnut/train/good
 
-test_data_path: /content/drive/MyDrive/mvtec_anomaly_detection/hazelnut/test/good
+test_data_path: /content/drive/MyDrive/mvtec_anomaly_detection/hazelnut/test/bad
 
 expname: PICARD-train 
 
