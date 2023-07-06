@@ -1,9 +1,14 @@
 # NOTE: this config file is for both training and testing
 # experiment and data parameters
+
 dataset_name: # NAME OF YOUR DATASET 
+
 data_with_subfolder: False
+
 train_data_path: # PATH TO FOLDER CONTAINING TRAINING IMAGES (normal/non-anomalous images only) 
+
 test_data_path: # PATH TO FOLDER CONTAINING TESTING IMAGES (normal and/or anomalous)
+
 expname: PICARD-train 
 
 # computation parameters
