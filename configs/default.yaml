@@ -1,13 +1,13 @@
 # NOTE: this config file is for both training and testing
 # experiment and data parameters
 
-dataset_name: # NAME OF YOUR DATASET 
+dataset_name: /content/drive/MyDrive/mvtec_anomaly_detection/hazelnut
 
 data_with_subfolder: False
 
-train_data_path: # PATH TO FOLDER CONTAINING TRAINING IMAGES (normal/non-anomalous images only) 
+train_data_path: /content/drive/MyDrive/mvtec_anomaly_detection/hazelnut/train/good
 
-test_data_path: # PATH TO FOLDER CONTAINING TESTING IMAGES (normal and/or anomalous)
+test_data_path: /content/drive/MyDrive/mvtec_anomaly_detection/hazelnut/test/good
 
 expname: PICARD-train 
 
